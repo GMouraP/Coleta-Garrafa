@@ -5,3 +5,6 @@ O objetivo do projeto era incentivar financeiramente as pessoas a reciclar suas 
 
 ### Orientadora:
 Marina C. Soares Stenico
+
+### Bibliotecas utilizadas
+NXT Shield -> Disponvel em: https://github.com/TKJElectronics/NXTShield
